@@ -1,7 +1,5 @@
 <?php
 
-$print = "hahhaaha";
-echo "Hello Github $print!";
-
+echo"hello IT pa HAHAHAHHA";
 
 ?>
